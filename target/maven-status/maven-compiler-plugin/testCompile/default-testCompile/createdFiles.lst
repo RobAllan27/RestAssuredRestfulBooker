@@ -1,0 +1,10 @@
+com\eightbigsticks\restfulbooker\UpdateBookingTests.class
+com\eightbigsticks\restfulbooker\HealthCheckRequestSpecificationTest.class
+com\eightbigsticks\restfulbooker\VerifyListOfBookingIdsTest.class
+com\eightbigsticks\restfulbooker\GetBasicBookingTestWithXML.class
+com\eightbigsticks\restfulbooker\GetBasicBookingTest.class
+com\eightbigsticks\restfulbooker\DeleteBookingTests.class
+com\eightbigsticks\restfulbooker\HealthCheckRequestHeadersAndCookies.class
+com\eightbigsticks\restfulbooker\CreateBookingTests.class
+com\eightbigsticks\restfulbooker\HealthCheckTest.class
+com\eightbigsticks\restfulbooker\PartialUpdateBookingTests.class

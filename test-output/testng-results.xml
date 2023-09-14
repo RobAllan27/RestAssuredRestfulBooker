@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T14:10:30 AEST" name="Default suite" finished-at="2023-09-14T14:10:35 AEST" duration-ms="5054">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T14:10:30 AEST" name="Default test" finished-at="2023-09-14T14:10:35 AEST" duration-ms="5054">
+      <class name="com.eightbigsticks.restfulbooker.CreateBookingTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.eightbigsticks.restfulbooker.CreateBookingTests@7a4ccb53]" started-at="2023-09-14T14:10:30 AEST" name="setUp" finished-at="2023-09-14T14:10:31 AEST" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CreateBookingTestWithPOJO()[pri:0, instance:com.eightbigsticks.restfulbooker.CreateBookingTests@7a4ccb53]" started-at="2023-09-14T14:10:31 AEST" name="CreateBookingTestWithPOJO" finished-at="2023-09-14T14:10:35 AEST" duration-ms="4229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateBookingTestWithPOJO -->
+      </class> <!-- com.eightbigsticks.restfulbooker.CreateBookingTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
